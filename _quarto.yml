@@ -5,6 +5,7 @@ website:
   title: "#datiBeneComune per le Linee Guida Open Data"
   description: "I commenti di #datiBeneComune, raccolti per la consultazione pubblica sulle Linee Guida Open Data"
   favicon: imgs/favicon.png
+  site-url: "https://ondata.github.io/consultazione-linee-guida-open-data"
   navbar:
     background: primary
     title: false
@@ -22,15 +23,14 @@ website:
   twitter-card:
     title: "#datiBeneComune per le Linee Guida Open Data"
     description: "I commenti raccolti per la consultazione pubblica sulle Linee Guida Open Data"
-    image: "https://i.imgur.com/DUClunI.png"
+    image: "/imgs/share-og.png"
     card-style: "summary_large_image"
     creator: "@ondatait"
   open-graph:
     title: "#datiBeneComune per le Linee Guida Open Data"
     description: "I commenti raccolti per la consultazione pubblica sulle Linee Guida Open Data"
     locale: it_IT
-    site-name: Quarto
-    image: "https://i.imgur.com/DUClunI.png"
+    image: "/imgs/share-og.png"
 
 
 format:
