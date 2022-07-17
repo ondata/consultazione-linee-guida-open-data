@@ -48,6 +48,6 @@ format:
     lang: it-IT
     link-external-icon: true
     link-external-newwindow: true
-    link-external-filter: '^(?:http:|https:)\/\/localhost'
+    link-external-filter: '^(?:http:|https:)\/\/(localhost|ondata.github.io\/consultazione-linee-guida-open-data)'
 
 
