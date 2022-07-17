@@ -57,7 +57,7 @@ Credo sia un passaggio importante e chiarifichiatorio in quanto spesso si metton
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/ambito-di-applicazione.html>
 
 ## 2. Normativa di riferimento
@@ -120,7 +120,7 @@ questo è anche uno dei motivi per cui non c'è compatibilità fra CC-BY 4.0 e O
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/terminologia.html>
 
 ## 4.1. Requisiti comuni
@@ -255,7 +255,7 @@ sarebbe bello leggere qui una posizione che dice che se dai dati geospaziali HVD
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
 
 ### Commento "OoKcFAXpEe2vt7NCsda_4A"
@@ -270,7 +270,7 @@ il dato viene importato in OpenStreetMap che è un ente no profit internazionale
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
 
 ### Commento "WTFhFAXoEe2fJLMURRRfEA"
@@ -288,7 +288,7 @@ Si trata di dettagli che fanno la differenza nel riuso
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
 
 ## 4.4. Dati della ricerca
@@ -622,7 +622,7 @@ estendere dicendo
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "5B6A1AXqEe2lFZem02e03A"
@@ -636,7 +636,7 @@ Si vedono sempre pìu dataset rilasciati con coordinate ricavate da geocoder sen
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ## 5.2. Richieste di riutilizzo
@@ -696,7 +696,7 @@ qui è necessario dialogo fra le parti
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/richieste-di-riutilizzo.html>
 
 ### Commento "--X9VAXrEe2iLKdhjOZw4A"
@@ -711,7 +711,7 @@ Al momento ci sono diversi casi simili in Italia
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/richieste-di-riutilizzo.html>
 
 ## 5.3. Qualità dei dati
@@ -759,7 +759,7 @@ Qui si potrebbe anche valutare l'uso di licenze di tipo condivisione allo stesso
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/qualit%C3%A0-dei-dati.html>
 
 ## 6.1. Licenze e condizioni di riutilizzo
@@ -788,7 +788,7 @@ http://mirrors.creativecommons.org/drafts/by_4.0d3.html#s2a3
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-legali-e-di-costo/licenze-e-condizioni-di-riutilizzo.html>
 
 ### Commento "G0flgAXtEe2TYRcZeRt9FA"
@@ -801,7 +801,7 @@ l'obbligo comunque può essere fatto in maniera che non sia restrittivo nel rius
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-legali-e-di-costo/licenze-e-condizioni-di-riutilizzo.html>
 
 ## 7.1. Pubblicazione dei dati
@@ -1144,7 +1144,7 @@ importanza codifica caratteri
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "txWwrAXwEe2a5ENNV3vUAw"
@@ -1157,7 +1157,7 @@ Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/l
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "nrEemAXwEe2sYkubXiJ2mg"
@@ -1170,7 +1170,7 @@ fondamentale la questione encoding dei caratteri
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "ikvfEAXwEe2qrB8OGH-I1g"
@@ -1183,6 +1183,6 @@ fondamentale che l'encoding usato per i caratteri sia una proprietà presente in
 
 --
 
-Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Commento di: _Maurizio Napolitano_ (napoogle@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 

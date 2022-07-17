@@ -3,6 +3,7 @@ title: "I commenti di #datiBeneComune alle Linee Guida Open Data"
 format:
   html:
     toc: false
+    anchor-sections: true
 ---
 
 Questo sito raccoglie i commenti di **#datiBeneComune** per la **consultazione pubblica** sulle [**Linee Guida Open Data**](https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/intro_consultazione.html).
