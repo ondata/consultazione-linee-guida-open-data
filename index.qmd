@@ -1,0 +1,37 @@
+---
+title: "I commenti di #datiBeneComune alle Linee Guida Open Data"
+format:
+  html:
+    toc: false
+---
+
+Questo sito raccoglie i commenti di **#datiBeneComune** per la **consultazione pubblica** sulle [**Linee Guida Open Data**](https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/intro_consultazione.html).
+
+La campagna [**\#datiBeneComune**](https://www.datibenecomune.it/) è nata per chiedere che i **dati** sulla pandemia da COVID-19 fossero un **bene comune.**
+<br>Questo era ed è uno degli obiettivi del "Piano Triennale per l'informatica nella Pubblica Amministrazione": riuscire a raccogliere più di 50.000 firme e quasi 300 adesioni di associazioni, gruppi di ricerca, aziende, organizzazioni, ecc., ci ha fatto comprendere quanto sia importante e necessario "stare sul pezzo".
+Quanto sia necessario farlo oltre la pandemia, perché possa crescere la cultura su questi temi, in modo che gli esiti possano essere efficaci.
+<br>Per queste ragioni, nel primo semestre del 2022, abbiamo voluto dare un contributo in tal senso, pubblicando "[**I dati che Vorrei**](https://vorrei.datibenecomune.it/dati-che-vorrei/)". Il documento, oltre ad elencare dataset fondamentali per il monitoraggio civico del PNRR, sottolinea come la pubblica amministrazione, di concerto con la collettività, debba individuare e scegliere quei dati che, una volta resi pubblici, possano generare valore per la collettività stessa, a partire dai più elevati standard internazionali.
+
+#datiBeneComune ritiene quindi questa consultazione pubblica un'occasione importante per dare un contributo e continuare a dialogare con la PA.
+
+Un grazie all'Agenzia per l’Italia Digitale per il lavoro che ha fatto e farà su questa consultazione, e ad autrici e autori dei [**commenti che abbiamo raccolto in questa pagina**](commenti.qmd).
+
+# Come abbiamo lavorato
+
+Questo gruppo di lavoro ha scelto di annotare le linee guida "open data" con [Hypothesis](https://web.hypothes.is/), uno strumento per annotare contenuti web, basato su tecnologie *open-source* e standard interoperabili.
+
+Lo abbiamo scelto perché consente di fare annotazioni a partire da porzioni di testo (anche da una sola parola).
+Come testo di riferimento, abbiamo usato quello di [Docs Italia](https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/index.html).
+
+Non è una delle modalità ufficiali previste - [ParteciPA](https://partecipa.gov.it/processes/linee-guida-open-data?locale=it), [Forum Italia](https://forum.italia.it/c/documenti-in-consultazione/linee-guida-open-data/86), [Docs Italia](https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/index.html) e [template ISO di AgID](https://dati.gov.it/LG_consultazione) - ma ogni nostro commento è pubblico ed è associato in modo chiaro sia al testo a cui fa riferimento, che all'utente che l'ha redatto. Riteniamo pertanto che nulla osti alla loro valutazione.
+
+La raccolta dei nostri commenti "grezzi" è accessibile in due modalità:
+
+  - quella [*human readable*](https://hypothes.is/search?q=url:https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/*);
+  - quella [*machine readable*](https://api.hypothes.is/api/search?limit=199&wildcard_uri=https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/*), in formato JSON, che sfrutta le API di Hypothesis.
+
+➡️ I [**commenti che abbiamo raccolto in questa pagina**](commenti.qmd) sono riportati in modo gerarchico, a partire dai titoli delle pagine delle Linee Guida a cui fanno riferimento.
+
+A ogni commento è associato l’*hyperlink* “👉Apri commento nel contesto”, che farà aprire il commento nel contesto a cui è associato, con evidenziata l'eventuale porzione di testo a cui fa riferimento (vedi immagine sottostante).
+
+![](imgs/hypothesis.png)

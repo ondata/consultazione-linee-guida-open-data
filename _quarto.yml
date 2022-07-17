@@ -1,0 +1,53 @@
+project:
+  type: website
+
+website:
+  title: "#datiBeneComune per le Linee Guida Open Data"
+  description: "I commenti di #datiBeneComune, raccolti per la consultazione pubblica sulle Linee Guida Open Data"
+  favicon: imgs/favicon.png
+  navbar:
+    background: primary
+    title: false
+    logo: imgs/logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - href: commenti.qmd
+        text: Commenti
+      - href: grazie.qmd
+        text: Grazie
+      - href: about.qmd
+        text: Informazioni
+  page-footer: "Un'iniziativa di <a href=\"https://datibenecomune.it/\">#datiBeneComune<a>"
+  twitter-card:
+    title: "#datiBeneComune per le Linee Guida Open Data"
+    description: "I commenti raccolti per la consultazione pubblica sulle Linee Guida Open Data"
+    image: "https://i.imgur.com/DUClunI.png"
+    card-style: "summary_large_image"
+    creator: "@ondatait"
+  open-graph:
+    title: "#datiBeneComune per le Linee Guida Open Data"
+    description: "I commenti raccolti per la consultazione pubblica sulle Linee Guida Open Data"
+    locale: it_IT
+    site-name: Quarto
+    image: "https://i.imgur.com/DUClunI.png"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    number-sections: false
+    highlight-style: github
+    self-contained: false
+    toc-title: "Indice"
+    anchor-sections: true
+#    smooth-scroll: true
+    toc-depth: 2
+    lang: it-IT
+    link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/localhost'
+
+

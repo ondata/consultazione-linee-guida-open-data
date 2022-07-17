@@ -1,0 +1,6 @@
+tmp*
+.~lock*
+tmp/*
+
+/.quarto/
+_site/

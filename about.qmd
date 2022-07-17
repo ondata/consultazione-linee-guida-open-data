@@ -1,0 +1,21 @@
+---
+title: "#datiBeneComune"
+about:
+  template: trestles
+  image: imgs/dbc.png
+  links:
+    - icon: house
+      text: homepage
+      href: https://www.datibenecomune.it/
+    - icon: book
+      text: I dati che Vorrei
+      href: https://vorrei.datibenecomune.it/
+---
+
+[**#datiBeneComune**](https://www.datibenecomune.it/) è una campagna nata nel novembre 2020 per chiedere al Governo italiano di pubblicare in maniera aperta i dati sulla gestione della pandemia di COVID-19.
+
+Da maggio 2021, in collaborazione con l'[Osservatorio Civico PNRR](https://www.osservatoriocivicopnrr.it/),  chiediamo l'apertura di **tutti i dati relativi al PNRR** (Piano Nazionale di Ripresa e Resilienza) e, più in generale, l'apertura di **tutti i dati di pubblico interesse**
+
+Nel primo semestre del 2022, abbiamo pubblicato “[**I dati che Vorrei**](https://vorrei.datibenecomune.it/dati-che-vorrei/)”: il documento, oltre ad elencare dataset fondamentali per il monitoraggio civico del PNRR, sottolinea come la pubblica amministrazione, di concerto con la collettività, debba individuare e scegliere quei dati che, una volta resi pubblici, possano generare valore per la collettività stessa, a partire dai più elevati standard internazionali.
+
+🙏 #datiBeneComune ha il sostegno di [ActionAid Italia](https://www.actionaid.it/), [Associazione onData](https://www.ondata.it/) e [Transparency International Italia](https://www.transparency.it/).
