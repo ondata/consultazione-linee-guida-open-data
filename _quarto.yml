@@ -3,6 +3,7 @@ project:
   render:
     - "*.qmd"
     - "!LICENSE.md"
+    - "!README.md"
 
 website:
   title: "#datiBeneComune per le Linee Guida Open Data"
