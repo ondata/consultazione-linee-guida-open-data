@@ -5,10 +5,10 @@ format:
     toc: false
 ---
 
-**Grazie** a tutte le persone, le organizzazioni, gli enti, le aziende, i professionisti e le professioniste, ecc., che ci sostengono in mille modi da tanto tempo.<br>
-Senza retorica, senza di loro, non saremo riusciti a realizzare anche questo.
+**Grazie** a tutte le persone, le organizzazioni, gli enti, le aziende, i professionisti e le professioniste, ecc., che sostengono [#datiBeneComune](https://www.datibenecomune.it/) in mille modi da tanto tempo.<br>
+Senza retorica, senza di voi, non saremo riusciti a realizzare anche questo.
 
-E un **grazie speciale** a queste persone, che hanno redatto questo lavoro, con una 🎖️ in più a Giorgia e Davide che hanno avuto l'idea di farlo in modo condiviso:
+E un **grazie speciale** a queste persone a seguire, che hanno redatto i [commenti](commenti.qmd) alle Linee Guida Open Data, con una 🎖️ in più a Giorgia e Davide che hanno avuto l'idea di farlo in modo condiviso:
 
 - [Dennis Angemi](https://twitter.com/DennisAngemi);
 - [Simone Aliprandi](https://twitter.com/simonealiprandi);
