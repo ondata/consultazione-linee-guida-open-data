@@ -346,18 +346,6 @@ Chiara o aperta? o chiara aperta?
 Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-della-ricerca.html>
 
-### Commento "2ckRtAE9Ee2dT5NJnD0vtQ"
-
-:::{.callout-note}
-Sono molto d'accordo su questo commento. Come si può attuare questa cosa?
-:::
-
-👉<a href="https://hyp.is/jsorZvYcEeydeQ-rYV4AGQ/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-della-ricerca.html" target="_blank">Apri commento nel contesto</a>
-
---
-
-Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
-Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-della-ricerca.html>
 
 ## 5.1. Aspetti organizzativi
 
@@ -793,7 +781,7 @@ Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/l
 ### Commento "scNxigHBEe2aqmtVhx8Lww"
 
 :::{.callout-note}
-Questo link dà errore 403.
+Il link a "Creative Commons Licenses Compatibility Wizard nelle Risorse Utili, dà errore 403.
 :::
 
 👉<a href="https://hyp.is/scNxigHBEe2aqmtVhx8Lww/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-legali-e-di-costo/licenze-e-condizioni-di-riutilizzo.html" target="_blank">Apri commento nel contesto</a>
