@@ -1,5 +1,8 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "!LICENSE.md"
 
 website:
   title: "#datiBeneComune per le Linee Guida Open Data"
