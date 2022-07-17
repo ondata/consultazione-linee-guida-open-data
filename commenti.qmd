@@ -18,7 +18,7 @@ Propongo di mantenerlo
 
 --
 
-A cura di: **Andrea Borruso (andrea.borruso@ondata.it)**<br>
+Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/>
 
 ### Commento "NWzf0O4hEey_Gov1P_Tdgg"
@@ -34,8 +34,34 @@ Aggiungere un capitolo su una lista di strumenti consigliati per "lavorare" con 
 
 --
 
-A cura di: **Andrea Borruso (andrea.borruso@ondata.it)**<br>
+Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/>
+
+## 1. Ambito di applicazione
+
+### Commento "82jpFgTsEe24vT9ah59mPw"
+
+👉<a href="https://hyp.is/82jpFgTsEe24vT9ah59mPw/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/ambito-di-applicazione.html" target="_blank">Apri commento nel contesto</a>
+
+Nella Direttiva UE il termine "documento" è esplicitato, ed è definito come "qualsiasi contenuto, a prescindere dal suo supporto (su supporto cartaceo o elettronico, registrazione sonora, visiva o audiovisiva)"
+Nel diritto italiano il termine "documento" fa riferimento quasi sempre ad un supporto cartaceo, o, comunque, ad un contenuto già strutturato. Visto che la direttiva è ovviamente sui "dati aperti", o si aggiunge qui "a tutti i documenti e i dati", oppure nel paragrafo "Termini e definizioni" si inserisce la definizione di "documento" contenuta nella Direttiva UE
+
+--
+
+Commento di: __ ()<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/ambito-di-applicazione.html>
+
+### Commento "lFBOJgXfEe2nVRNIrh_X8w"
+
+👉<a href="https://hyp.is/lFBOJgXfEe2nVRNIrh_X8w/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/ambito-di-applicazione.html" target="_blank">Apri commento nel contesto</a>
+
+anche se forse è superficiale, in ogni caso rimarcherei qui quanto scritto nel'articolo 5 della legge sul diritto d'autore dove - nei fatti - si dichiara che atti e documenti della pubblica amministrazione sono in pubblico dominio.
+Credo sia un passaggio importante e chiarifichiatorio in quanto spesso si mettono licenze (aperte o meno) su questa categoria di documenti dove non `è necessario
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/ambito-di-applicazione.html>
 
 ## 2. Normativa di riferimento
 
@@ -47,7 +73,7 @@ Questo paragrafo fa riferimento a diverse norme: è opportuno inserire gli hyper
 
 --
 
-A cura di: **Andrea Borruso (andrea.borruso@ondata.it)**<br>
+Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/normativa-di-riferimento.html>
 
 ## 3. Terminologia
@@ -66,7 +92,7 @@ Ad esempio:
 
 --
 
-A cura di: **Andrea Borruso (andrea.borruso@ondata.it)**<br>
+Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/terminologia.html>
 
 ### Commento "T_3gLvVgEeyotD-YAikygQ"
@@ -77,7 +103,19 @@ Sinceramente questa sezione sulla terminilogia è alquanto singolare. Nelle line
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/terminologia.html>
+
+### Commento "elM_QAXhEe2ZRc9LCd937g"
+
+👉<a href="https://hyp.is/elM_QAXhEe2ZRc9LCd937g/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/terminologia.html" target="_blank">Apri commento nel contesto</a>
+
+piccola nota:
+questo è anche uno dei motivi per cui non c'è compatibilità fra CC-BY 4.0 e ODbL
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/terminologia.html>
 
 ## 4.1. Requisiti comuni
@@ -101,7 +139,7 @@ Alcune domande/spunti di esempio:
 
 --
 
-A cura di: **Andrea Borruso (andrea.borruso@ondata.it)**<br>
+Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/requisiti-comuni.html>
 
 ### Commento "FcSoigE_Ee2dVEvqTdhoTw"
@@ -112,7 +150,7 @@ Forse si può riprodurre in italiano. Ho qualche dubbio sul formato non propriet
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/requisiti-comuni.html>
 
 ### Commento "yWQUavVvEeykVeu5pt8wiw"
@@ -123,7 +161,7 @@ Secondo me si può generare confusione tra documento e dato, soprattutto in un m
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/requisiti-comuni.html>
 
 ### Commento "FoNbSPVmEeyxNAtK6zygwg"
@@ -134,7 +172,7 @@ licenze aperte standard. Aggiungere la parola aperte che è fondamentale.
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/requisiti-comuni.html>
 
 ## 4.2. Dati dinamici
@@ -148,7 +186,7 @@ Nella versione finale della guida sarebbe opportuno attivare hyperlink tra requi
 
 --
 
-A cura di: **Andrea Borruso (andrea.borruso@ondata.it)**<br>
+Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-dinamici.html>
 
 ## 4.3. Serie di dati di elevato valore
@@ -161,7 +199,7 @@ Io per essere sicura ribadirei che per tante altre categorie di dati (e.g. dati 
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
 
 ### Commento "bYaIKv7kEeya5MOjMgF0bg"
@@ -172,7 +210,7 @@ Secondo me manca un raccordo con tutta la parte anche PDND. Un pezzo del registr
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
 
 ### Commento "Ov-cTv7jEey32L-zxJiefg"
@@ -183,7 +221,59 @@ Non sarebbe meglio scrivere "Visto che non si può ancora far riferimento a tali
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
+
+### Commento "cxkRAgXpEe2y26OK4hkd5A"
+
+👉<a href="https://hyp.is/cxkRAgXpEe2y26OK4hkd5A/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html" target="_blank">Apri commento nel contesto</a>
+
+cosa succede se la direttiva HVD specifica - come dovrebbe - quali sono i dati da rilasciare il livello?
+IGM può ostacolare la questione?
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
+
+### Commento "OoKcFAXpEe2vt7NCsda_4A"
+
+👉<a href="https://hyp.is/OoKcFAXpEe2vt7NCsda_4A/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html" target="_blank">Apri commento nel contesto</a>
+
+mi chiedo come questo può tracciare le evoluzioni dei dati che vengono riusati e redistribuiti
+Es.
+il dato viene importato in OpenStreetMap che è un ente no profit internazionale (suppongo quindi che non viene visto come società privata) e poi viene redistribuito come dato di OpenSteetMap .. e poi riusato da aziende
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
+
+### Commento "WTFhFAXoEe2fJLMURRRfEA"
+
+👉<a href="https://hyp.is/WTFhFAXoEe2fJLMURRRfEA/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html" target="_blank">Apri commento nel contesto</a>
+
+credo sia necessario un requisito legato alla completezza dei dati e della garanzia del livello minimo di aggregazione.
+Es.
+numeri civici accompagnati da codice di avviamento postale
+limiti amministrativi al livello più dettagliato dell'amministrazione di rifeirmetno
+edifici che comprendano anche l'altezza ecc...
+Si trata di dettagli che fanno la differenza nel riuso
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
+
+### Commento "7kF0_AXnEe2qigejCdOtRg"
+
+👉<a href="https://hyp.is/7kF0_AXnEe2qigejCdOtRg/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html" target="_blank">Apri commento nel contesto</a>
+
+lo studio di una tender vinta da Lisbon Council e Deloitte ha individuato l'insieme di dati geospaziali che prevedono anche il catasto oltre a limiti amministrativi, toponimi, numeri civici, edifici.
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/serie-di-dati-di-elevato-valore.html>
 
 ## 4.4. Dati della ricerca
@@ -196,7 +286,7 @@ Posto in questi termini sembra molto astratto. Forse un esempio potrebbe aiutare
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-della-ricerca.html>
 
 ### Commento "QiBsagFAEe2UfK8dZhkxhQ"
@@ -207,7 +297,7 @@ Il requisito 15, se non ho sbagliato, sono i metadati DCAT-AP_IT. Ma i metadati 
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-della-ricerca.html>
 
 ### Commento "Z_qZZgE_Ee2n7bvDjoH2lw"
@@ -218,7 +308,7 @@ Chiara o aperta? o chiara aperta?
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-della-ricerca.html>
 
 ### Commento "2ckRtAE9Ee2dT5NJnD0vtQ"
@@ -229,7 +319,18 @@ Sono molto d'accordo su questo commento. Come si può attuare questa cosa?
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-della-ricerca.html>
+
+### Commento "e1JUrgXqEe2Go6sh3iOYxA"
+
+👉<a href="https://hyp.is/e1JUrgXqEe2Go6sh3iOYxA/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-della-ricerca.html" target="_blank">Apri commento nel contesto</a>
+
+ma questo non potremmo farlo valere per TUTTI i dati che vengono resi opendata?
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/principi-generali/dati-della-ricerca.html>
 
 ## 5.1. Aspetti organizzativi
@@ -242,7 +343,7 @@ Mi fa pensare a enti della P.A., forse si potrebbe parlare di organizzazione in 
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "QXCL2vaeEey4BduLGUc0zg"
@@ -253,7 +354,7 @@ c'è una ripetizione
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "Lnq2bvadEey4J_NB_BYmYg"
@@ -267,7 +368,7 @@ oppure
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "jH-yxPacEeypUfe2eTRlPQ"
@@ -278,7 +379,7 @@ mi sembra tautologico
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "csO53vacEeyffdeXbjPNdA"
@@ -289,7 +390,7 @@ non è chiaro se i dati da fonti esterne sono i dati esistenti, o se i dati esis
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "RLw-WPacEeyamuPzWAimmg"
@@ -300,7 +401,7 @@ Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/l
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "NUP1OPacEey-DXeB1dOdqg"
@@ -311,7 +412,7 @@ Inserire riferimento con nota a piè pagina
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "lQeUVP7dEeyWyWN4bt2niA"
@@ -322,7 +423,7 @@ Il problema di questa sezione è derubricare i modelli dati come documentazione.
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "ZsLtnP7cEeyhjKNSuxmIuA"
@@ -333,7 +434,7 @@ Tutta la parte di modellazione dati, anche attraverso il catalogo nazionale dell
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "aI5XNvV-Eey_Q6tfHd12SQ"
@@ -344,7 +445,7 @@ Non è che fate inferenza perché dereferenziate gli URI. Vi suggerisco di legge
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "_nmLxPV7EeybTktmFGto7A"
@@ -355,7 +456,7 @@ Ho visto il documento qui riferito ma intanto parlano di vocabolari controllati 
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "wU3amvV-Eeybewfz49NQPQ"
@@ -366,7 +467,7 @@ Non trovo utilità in quanto qui scritto onestamente. Molti più sistemi sono or
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "2SThbvV9EeybKhPOaR8QGg"
@@ -377,7 +478,7 @@ rifraserei in "si basano su diversi standard, tra cui RDF, e spesso usano vocabo
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "l8aVbvV9Eeyofgd1dFwapA"
@@ -388,7 +489,7 @@ JSON-LD è una serializzazione RDF nel mondo JSON. Occhio che qui la traduzione 
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "IKk33vV9EeyZJp-gbBxHvw"
@@ -399,7 +500,7 @@ Sono open o no?
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "EqKdxPV9EeyxiFMNspbXpQ"
@@ -410,7 +511,7 @@ Qui c'è un problema di fondo proprio concettuale. Il problema è che il paradig
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "oJ2AQPV8EeyzoDNajM3oPw"
@@ -421,7 +522,7 @@ Comunque, farei uno sforzo in più, con tutto quello che l'italia ha scritto sui
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "XKWEoPV8EeyVwutL5csV9Q"
@@ -432,7 +533,7 @@ si può usare anche l'italiano. Insieme di dati
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "R_01AvV8Eey2wbtK-mKdPg"
@@ -443,7 +544,7 @@ dereferenziati
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "OJZPhvV8Eey0oA8WlbjGeA"
@@ -454,7 +555,7 @@ Ma anche per quelli che li usano, non si devono preoccupare di aggiornare le var
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ### Commento "GYhXavV8Eeyn_y_TcOZkTw"
@@ -465,7 +566,43 @@ Semplicemente direi: il riferimento non cambia
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
+
+### Commento "hGJv4gXrEe2y4mtaCKEnnQ"
+
+👉<a href="https://hyp.is/hGJv4gXrEe2y4mtaCKEnnQ/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html" target="_blank">Apri commento nel contesto</a>
+
+estendere dicendo
+"e del rispetto dei vincoli richiesti anche dalle licenze open data risolvendo eventuali problemi di gestione delle attribuzioni e di modalità di rilascio?"
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
+
+### Commento "MM--tgXrEe2-CgMeKYb-hA"
+
+👉<a href="https://hyp.is/MM--tgXrEe2-CgMeKYb-hA/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html" target="_blank">Apri commento nel contesto</a>
+
+questo è un argomento importante perchè apre alcune difficoltà che si hanno con l'uso di licenza di attribuzione che anche se sono opendata, comunque generano problemi della gestione di più attribuzioni.
+Riporto il problema qui per riprenderlo in altre parti del documento in quanto credo sia necessario capirne il problema e non ridurlo solo a "licenza open data compatibilit" perchè non lo è.
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
+
+### Commento "5B6A1AXqEe2lFZem02e03A"
+
+👉<a href="https://hyp.is/5B6A1AXqEe2lFZem02e03A/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html" target="_blank">Apri commento nel contesto</a>
+
+qui penso sia necessario verificare di avere tutti i permessi per farlo
+Si vedono sempre pìu dataset rilasciati con coordinate ricavate da geocoder senza andare a vedere i termini di riuso se permettono poi di ridistribuire i dati come open data.
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/aspetti-organizzativi.html>
 
 ## 5.2. Richieste di riutilizzo
@@ -478,7 +615,7 @@ Ignorando?
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/richieste-di-riutilizzo.html>
 
 ### Commento "SxJgIP7fEey-qL9ER7-3Cw"
@@ -489,7 +626,7 @@ Se del caso o no? Se si deve promuovere il riutilizzo è del caso, no?
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/richieste-di-riutilizzo.html>
 
 ### Commento "BG_CFv7fEeyhqRsGCeMEOA"
@@ -500,7 +637,37 @@ Ok, nella direttiva, ma linee guida dovrebbero dare un'indicazione, non dico pun
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/richieste-di-riutilizzo.html>
+
+### Commento "dCd-tAXsEe2qnBe7NDZOCA"
+
+👉<a href="https://hyp.is/dCd-tAXsEe2qnBe7NDZOCA/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/richieste-di-riutilizzo.html" target="_blank">Apri commento nel contesto</a>
+
+propongo un paragrafo
+5.2.1 Richiesta di riutilizzo di open data con licenze incompatibili
+Questa sezione dovrebbe dare una linea guida su come comportarsi nei tre casi:
+- rilascio in CC0 => nessun problema
+- rilascio con licenza di attribuzione => dichiarare che si può cambiare la modalità di attribuzione a patto che ci sia uno spazio che permette di risalire alla sua sorgente. Nel caso poi di ulteriori restrizioni (come DRM previsto da CC-BY 4.0) si accettano forme analoghe di restrizione anche se diverse [queste osservazioni sono per permettere il riuso in OpenStreetMap)
+- caso di licenze di condivisione allo stesso modo
+qui è necessario dialogo fra le parti
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/richieste-di-riutilizzo.html>
+
+### Commento "--X9VAXrEe2iLKdhjOZw4A"
+
+👉<a href="https://hyp.is/--X9VAXrEe2iLKdhjOZw4A/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/richieste-di-riutilizzo.html" target="_blank">Apri commento nel contesto</a>
+
+attenzione ai casi (es OpenStreetMap e non solo) dove viene fatta richiesta di riutilizzo dei dati con licenza open data diversa o di poter avere il permesso di gestire le restrizioni in maniera diversa.
+Dal mio punto di vista questo dovrebbe essere un caso gestito a se con un suo paragrafo che delinea delle linee guida sui permessi di riutilizzo di dati aperti con restrizioni sulle licenze.
+Al momento ci sono diversi casi simili in Italia
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/richieste-di-riutilizzo.html>
 
 ## 5.3. Qualità dei dati
@@ -518,7 +685,7 @@ Sfrutterei questa occasione, per indicare anche con una frase, l'enorme importan
 
 --
 
-A cura di: **Andrea Borruso (andrea.borruso@ondata.it)**<br>
+Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/qualit%C3%A0-dei-dati.html>
 
 ### Commento "kRQUZP7gEeyhJbvwpDRaMg"
@@ -529,7 +696,20 @@ Le precedenti linee guida erano piene di raccomandazioni perché l'impianto norm
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/qualit%C3%A0-dei-dati.html>
+
+### Commento "7MXPBgXsEe2zoJdsoxzA5w"
+
+👉<a href="https://hyp.is/7MXPBgXsEe2zoJdsoxzA5w/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/qualit%C3%A0-dei-dati.html" target="_blank">Apri commento nel contesto</a>
+
+concordo sull'importanza di queste caratterisitche, propongo comunque di permette il rilascio di dati anche incompleti di queste caratteristiche, chiedendo però di specificare i problemi e di chiedere di favorire il dialogo
+Qui si potrebbe anche valutare l'uso di licenze di tipo condivisione allo stesso modo come la ODbL facendo presente che, una volta risolti i problemi poi il dato viene rilasciato con una licenza meno restrittiva.
+(forse complesso come scenario)
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-organizzativi-e-qualit%C3%A0-dei-dati/qualit%C3%A0-dei-dati.html>
 
 ## 6.1. Licenze e condizioni di riutilizzo
@@ -542,10 +722,43 @@ Questo link dà errore 403.
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-legali-e-di-costo/licenze-e-condizioni-di-riutilizzo.html>
+
+### Commento "QwS_CAXtEe2unw8zPNfEKA"
+
+👉<a href="https://hyp.is/QwS_CAXtEe2unw8zPNfEKA/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-legali-e-di-costo/licenze-e-condizioni-di-riutilizzo.html" target="_blank">Apri commento nel contesto</a>
+
+Questa è la licenza di tipo attribuzone più intelligente in quanto il vincolo non è forte ed è corente con l'idea di riuso
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-legali-e-di-costo/licenze-e-condizioni-di-riutilizzo.html>
+
+### Commento "G0flgAXtEe2TYRcZeRt9FA"
+
+👉<a href="https://hyp.is/G0flgAXtEe2TYRcZeRt9FA/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-legali-e-di-costo/licenze-e-condizioni-di-riutilizzo.html" target="_blank">Apri commento nel contesto</a>
+
+l'obbligo comunque può essere fatto in maniera che non sia restrittivo nel riuso
+
+--
+
+Commento di: _Maurizio Napolitano_ (maurizio.napolitano@okfn.org)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/aspetti-legali-e-di-costo/licenze-e-condizioni-di-riutilizzo.html>
 
 ## 7.1. Pubblicazione dei dati
+
+### Commento "2c6QivYgEeyzqedsCxR2FQ"
+
+👉<a href="https://hyp.is/2c6QivYgEeyzqedsCxR2FQ/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/pubblicazione-e-strumenti-di-ricerca/pubblicazione-dei-dati.html" target="_blank">Apri commento nel contesto</a>
+
+Questo punto potrebbe generare confusione, non distinguendo i casi in cui l’URI rappresenta una risorsa/entità e i casi in cui ho più link verso i diversi formati con cui i dati sono resi disponibili (se ho interpretato bene questo punto). In ogni caso andrebbe specificato meglio.
+
+--
+
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/pubblicazione-e-strumenti-di-ricerca/pubblicazione-dei-dati.html>
 
 ### Commento "7YxcfvYgEeyYRmvn3So0QQ"
 
@@ -555,7 +768,7 @@ Specificando che si tratti della stessa risorsa (owl:sameAs), oppure si sta face
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/pubblicazione-e-strumenti-di-ricerca/pubblicazione-dei-dati.html>
 
 ### Commento "D9lODvYhEeybQLc8WKtyQg"
@@ -566,7 +779,7 @@ molto vago, servizi per fare cosa?
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/pubblicazione-e-strumenti-di-ricerca/pubblicazione-dei-dati.html>
 
 ### Commento "_eyNoPYgEeyMdduAYsuhAA"
@@ -577,18 +790,7 @@ per le risorse astratte no?
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
-Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/pubblicazione-e-strumenti-di-ricerca/pubblicazione-dei-dati.html>
-
-### Commento "2c6QivYgEeyzqedsCxR2FQ"
-
-👉<a href="https://hyp.is/2c6QivYgEeyzqedsCxR2FQ/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/pubblicazione-e-strumenti-di-ricerca/pubblicazione-dei-dati.html" target="_blank">Apri commento nel contesto</a>
-
-Non mi è chiaro
-
---
-
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/pubblicazione-e-strumenti-di-ricerca/pubblicazione-dei-dati.html>
 
 ### Commento "UWPKvPYgEeyiqrOMkP9YKQ"
@@ -599,7 +801,7 @@ non vorrei che questa frase generasse confusione. Distinguerei tra formati (CSV,
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/pubblicazione-e-strumenti-di-ricerca/pubblicazione-dei-dati.html>
 
 ### Commento "4WMJgPYfEeyiqFeGQitVMA"
@@ -610,7 +812,7 @@ in genere una query SPARQL sta su un link, quindi non parlerei di pochi click ma
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/pubblicazione-e-strumenti-di-ricerca/pubblicazione-dei-dati.html>
 
 ## 8. Allegato A - Modello per i dati aperti
@@ -623,7 +825,7 @@ mi sembra superfluo e non proprio discriminante per i livelli 4 e 5
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-a-modello-per-i-dati-aperti.html>
 
 ### Commento "1SKWWvYjEeyiuzuB2dU-uw"
@@ -634,7 +836,7 @@ Forse evidenzierei di già la possibilità di usare standard come SPARQL per acc
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-a-modello-per-i-dati-aperti.html>
 
 ### Commento "q5RwYPYjEeyONbdJPQ1OYw"
@@ -645,10 +847,26 @@ mi sembra superfluo
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-a-modello-per-i-dati-aperti.html>
 
 ## 9. Allegato B - Standard di riferimento e formati aperti
+
+### Commento "dGj6Vu19EeyaFz-GOrLLBQ"
+
+👉<a href="https://hyp.is/dGj6Vu19EeyaFz-GOrLLBQ/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html" target="_blank">Apri commento nel contesto</a>
+
+Raccomandare di descrivere sempre:
+
+- qual è il separatore del CSV
+- qual è l'encoding dei caratteri
+
+Senza queste informazioni ci può essere un impatto di lettura difficilmente superabile. Specie per un CSV che non contiene nessun elemento descrittivo al suo interno.
+
+--
+
+Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
+Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "O5nu9O4fEeyv1rdxt_s2iw"
 
@@ -663,22 +881,18 @@ Come suggerito da Giorgia Lodi, questi metadati di contenuto potrebbero seguire 
 
 --
 
-A cura di: **Andrea Borruso (andrea.borruso@ondata.it)**<br>
+Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
-### Commento "dGj6Vu19EeyaFz-GOrLLBQ"
+### Commento "wjwu1gTvEe2dSd81tCJieA"
 
-👉<a href="https://hyp.is/dGj6Vu19EeyaFz-GOrLLBQ/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html" target="_blank">Apri commento nel contesto</a>
+👉<a href="https://hyp.is/wjwu1gTvEe2dSd81tCJieA/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html" target="_blank">Apri commento nel contesto</a>
 
-Raccomandare di descrivere sempre:
-* qual è il separatore del CSV
-* qual è l'encoding dei caratteri
-
-Senza queste informazioni ci può essere un impatto di lettura difficilmente superabile. Specie per un CSV che non contiene nessun elemento descrittivo al suo interno.
+Se proprio bisogna dare delle indicazioni così specifiche, si deve inserire la raccomandazione (banalissima) che nella scelta del separatore di campo (;  ,  tab ecc) si deve scegliere un separatore che poi non compare all'interno del testo dei campi, come purtroppo avviene spesso (p.es. nel campo descrizione del file dei consulenti della PA, spesso vi era all'interno del testo il punto e virgola, utilizzato come separatore di campo)
 
 --
 
-A cura di: **Andrea Borruso (andrea.borruso@ondata.it)**<br>
+Commento di: __ ()<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "UJRZlPYbEeyqJjtNxtvzng"
@@ -690,7 +904,7 @@ In aggiunta, troviamo nella stessa tabella, ontologie note, standard, schemi, mo
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "Ml2PFPYaEeyzliewhvwy9A"
@@ -701,7 +915,7 @@ Si potrebbe indicare come raccomandazione il riutilizzo di schemi esistenti (es.
 
 --
 
-A cura di: **Davide Taibi (davide.taibi@gmail.com)**<br>
+Commento di: _Davide Taibi_ (davide.taibi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "4uCe5gKxEe291HtjXk_L2g"
@@ -712,7 +926,7 @@ La commissione economica per l'Europa (UNECE) mantiene un dataset in cui pubblic
 
 --
 
-A cura di: **Dennis Angemi (dennisangemi@gmail.com)**<br>
+Commento di: _Dennis Angemi_ (dennisangemi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "M-NRGAKxEe2PmcOLVSBr0A"
@@ -723,7 +937,7 @@ Un file per tabella, una riga per osservazione, una colonna per variabile.
 
 --
 
-A cura di: **Dennis Angemi (dennisangemi@gmail.com)**<br>
+Commento di: _Dennis Angemi_ (dennisangemi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "6oOsxPB9EeyoHQe7tq5B2w"
@@ -735,7 +949,7 @@ Comunque spazio dei nomi non si è proprio mai sentito :) In questo caso, se las
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "e2K6QPBrEey4_vPi1fOf2Q"
@@ -746,7 +960,7 @@ La stessa cosa della sezione 9.2.4.1 vale anche qui: chi mi impedisce di usare R
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "79Yv6PBqEey-mZfarEIfYw"
@@ -757,7 +971,7 @@ Nella sezione 9.2.4.1 - Chi mi impedisce di usare RDF per esempio? In questa sez
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "BZRA6u75Eey-ZKOIbIcDFg"
@@ -768,7 +982,7 @@ Meglio ormai https per l'uso in diversi software
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "E1lCDO75EeyZg2-ZLBo4Ww"
@@ -779,7 +993,7 @@ e in realtà se vogliamo essere pignoli, IRI
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "2yO9fO74Eeyxhu-binL97Q"
@@ -790,7 +1004,7 @@ Proprio a integrazione del commento di @aborusso direi che le intestazioni dovre
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "Zy3dku76EeyiPUNM2ciuzA"
@@ -801,7 +1015,7 @@ In questa tabella c'è un calderone di roba diversa messa sullo stesso piano e q
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "ag2t3O74EeyRdN_TXQflYA"
@@ -812,7 +1026,7 @@ Ad integrazione si potrebbe dire che questi metadati di contenuto potrebbero seg
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "QxrFKu74EeyRc0cqo6uI1w"
@@ -823,6 +1037,6 @@ Aggiungerei che queste raccomandazioni erano nelle precedenti linee guida. Perta
 
 --
 
-A cura di: **Giorgia Lodi (giorgia.lodi@gmail.com)**<br>
+Commento di: _Giorgia Lodi_ (giorgia.lodi@gmail.com)<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
