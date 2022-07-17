@@ -46,20 +46,6 @@ Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/l
 
 ## 1. Ambito di applicazione
 
-### Commento "82jpFgTsEe24vT9ah59mPw"
-
-:::{.callout-note}
-Nella Direttiva UE il termine "documento" è esplicitato, ed è definito come "qualsiasi contenuto, a prescindere dal suo supporto (su supporto cartaceo o elettronico, registrazione sonora, visiva o audiovisiva)"
-Nel diritto italiano il termine "documento" fa riferimento quasi sempre ad un supporto cartaceo, o, comunque, ad un contenuto già strutturato. Visto che la direttiva è ovviamente sui "dati aperti", o si aggiunge qui "a tutti i documenti e i dati", oppure nel paragrafo "Termini e definizioni" si inserisce la definizione di "documento" contenuta nella Direttiva UE
-:::
-
-👉<a href="https://hyp.is/82jpFgTsEe24vT9ah59mPw/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/ambito-di-applicazione.html" target="_blank">Apri commento nel contesto</a>
-
---
-
-Commento di: __ ()<br>
-Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/ambito-di-applicazione.html>
-
 ### Commento "lFBOJgXfEe2nVRNIrh_X8w"
 
 :::{.callout-note}
@@ -975,19 +961,6 @@ Come suggerito da Giorgia Lodi, questi metadati di contenuto potrebbero seguire 
 --
 
 Commento di: _Andrea Borruso_ (andrea.borruso@ondata.it)<br>
-Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
-
-### Commento "wjwu1gTvEe2dSd81tCJieA"
-
-:::{.callout-note}
-Se proprio bisogna dare delle indicazioni così specifiche, si deve inserire la raccomandazione (banalissima) che nella scelta del separatore di campo (;  ,  tab ecc) si deve scegliere un separatore che poi non compare all'interno del testo dei campi, come purtroppo avviene spesso (p.es. nel campo descrizione del file dei consulenti della PA, spesso vi era all'interno del testo il punto e virgola, utilizzato come separatore di campo)
-:::
-
-👉<a href="https://hyp.is/wjwu1gTvEe2dSd81tCJieA/docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html" target="_blank">Apri commento nel contesto</a>
-
---
-
-Commento di: __ ()<br>
 Pagina di riferimento: <https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/allegato-b-standard-di-riferimento-e-formati-aperti.html>
 
 ### Commento "UJRZlPYbEeyqJjtNxtvzng"
