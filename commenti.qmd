@@ -5,7 +5,7 @@ format:
     callout-appearance: minimal
 ---
 
-A seguire i commenti raccolti, riportati in modo gerarchico, a partire dai titoli delle pagine delle [Linee Guida](https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it) a cui fanno riferimento.
+A seguire i commenti raccolti, riportati in modo gerarchico, a partire dai titoli delle pagine delle [Linee Guida](https://docs.italia.it/AgID/documenti-in-consultazione/lg-opendata-docs/it/bozza/index.html) a cui fanno riferimento.
 
 ---
 
