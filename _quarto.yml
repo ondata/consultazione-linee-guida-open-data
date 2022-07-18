@@ -23,7 +23,11 @@ website:
         text: Grazie
       - href: about.qmd
         text: Informazioni
-  page-footer: "Un'iniziativa di <a href=\"https://datibenecomune.it/\">#datiBeneComune<a>"
+  page-footer:
+    left: "Un'iniziativa di <a href=\"https://datibenecomune.it/\">#datiBeneComune<a>"
+    right:
+      - icon: github
+        href: https://github.com/ondata/consultazione-linee-guida-open-data
   twitter-card:
     title: "#datiBeneComune per le Linee Guida Open Data"
     description: "I commenti raccolti per la consultazione pubblica sulle Linee Guida Open Data"
