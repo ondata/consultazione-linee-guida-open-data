@@ -29,7 +29,6 @@ website:
     description: "I commenti raccolti per la consultazione pubblica sulle Linee Guida Open Data"
     image: "/imgs/share-og.png"
     card-style: "summary_large_image"
-    creator: "@ondatait"
   open-graph:
     title: "#datiBeneComune per le Linee Guida Open Data"
     description: "I commenti raccolti per la consultazione pubblica sulle Linee Guida Open Data"
